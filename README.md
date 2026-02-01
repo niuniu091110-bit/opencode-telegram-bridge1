@@ -10,7 +10,7 @@ Connect your local OpenCode instance to Telegram for remote AI interaction.
 
 ### What It Does
 
-This bridge enables you to use OpenCode's AI capabilities directly from Telegram. Send messages from your phone or any device, and receive intelligent responses powered by OpenCode's Sisyphus agent.
+This bridge enables you to use OpenCode's AI capabilities directly from Telegram. Send messages from your phone or any device, and receive intelligent responses powered by OpenCode's agent.
 
 ### Features
 
@@ -53,7 +53,7 @@ MIT
 
 ### 功能介绍
 
-这个桥接工具让你可以直接在 Telegram 中使用 OpenCode 的强大 AI 功能。随时随地发送消息，接收由 OpenCode Sisyphus agent 生成的智能回复。
+这个桥接工具让你可以直接在 Telegram 中使用 OpenCode 的强大 AI 功能。随时随地发送消息，接收由 OpenCode  agent 生成的智能回复。
 
 ### 主要特性
 
